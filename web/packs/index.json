@@ -1,6 +1,9 @@
 {
   "packs": [
-    "line16091727_by_RekcitsEnilbot.json"
+    "line16091727_by_RekcitsEnilbot.json",
+    "DetectiveUsami.json",
+    "LovelyEngineer.json",
+    "emotes.json"
   ],
   "homeserver_url": "https://matrix.xsockets.org"
 }
