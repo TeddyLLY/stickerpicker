@@ -2,9 +2,9 @@
   "packs": [
     "anyaforgerpeanuts.json",
     "Anya_x_Family_by_Izzwerg.json",
-	"emotes.json",
-	"EnginnerDontwannaType.json",
-	"chonglangTV_2.json",
+    "emotes.json",
+    "EnginnerDontwannaType.json",
+    "chonglangTV_2.json",
     "line16091727_by_RekcitsEnilbot.json",
     "DetectiveUsami.json",
     "LovelyEngineer.json",
@@ -14,7 +14,9 @@
     "line361761910_by_RekcitsEnilbot.json",
     "line17811_by_RekcitsEnilbot.json",
     "GonSaSmall.json",
-    "AnyaSPYxSAMILY.json"
+    "AnyaSPYxSAMILY.json",
+    "WtfFoods.json",
+    "five_year_old_duck_total1.json"
   ],
   "homeserver_url": "https://matrix.xsockets.org"
 }
